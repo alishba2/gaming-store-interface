@@ -1,0 +1,52 @@
+.who_container{
+    height: 400px;
+    width: 800px;
+    display: flex;
+  
+    background-color: #062F4F;
+    background-image: url("./images/WhatsApp\ Image\ 2021-04-23\ at\ 7.57.40\ PM.jpeg");
+    -moz-box-shadow: 0px 6px 5px #062F4F;
+    -webkit-box-shadow: 0px 6px 5px #062F4F;
+    filter: grayscale(100%);
+    box-shadow: 0px 6px 5px #062F4F;
+  
+
+    opacity: 70%;
+    margin: 100px;
+    
+}
+
+.who_head{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: black;
+    font-weight: bolder;
+    padding: 40px;
+    font-size: 30px;
+    font-weight: normal;
+
+ 
+}
+div > p{   
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color:black;
+    font-weight: bolder;
+    margin-top: 130px;
+    margin-left: -160px;
+    font-size: 20px;
+    background:white;
+   
+ 
+
+
+}
+.para_container{
+    width: 400px;
+    height: 100px;
+    opacity: 80%;
+    padding: 10px;
+ 
+}
+.para_text{
+    opacity: 100%;
+    padding: 20px;
+}
